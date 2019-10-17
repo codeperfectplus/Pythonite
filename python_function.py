@@ -1,3 +1,5 @@
+''' Python Function Excxample'''
+
 def fname():
     print("Hello")
 fname()

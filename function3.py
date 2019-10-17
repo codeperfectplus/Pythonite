@@ -1,3 +1,6 @@
+'''
+Python recursion
+'''
 def recursion_01(k):
     if(k>0):
         result=k+recursion_01(k-2)
