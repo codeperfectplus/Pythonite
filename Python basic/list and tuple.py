@@ -24,3 +24,4 @@ print(x)
 '''
 The Above Example Is for List.
  '''
+#%%%%%%%%%%%%%%%%%%%%%%%%%%%%55
