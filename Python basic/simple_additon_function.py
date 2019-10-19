@@ -1,3 +1,8 @@
+'''
+Using Function to add Two integer.
+
+'''
+
 def simple_addition(num1,num2):
     ans=num1+num2
     return ans
