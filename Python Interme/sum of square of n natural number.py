@@ -11,11 +11,11 @@ if N = 4
 
 def squaresum(n):
 
-	sm = 0
+	sum = 0
 	for i in range(1, n+1):
-		sm = sm + (i * i)
+		sum = sum + (i * i)
 
-	return sm
+	return sum
 
 n = 4
 print(squaresum(n))

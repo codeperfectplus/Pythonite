@@ -1,0 +1,15 @@
+'''
+Numphy Is a Python Package for numeric python.it is a library consisting of multidimensional array objects and a collection of routine for processing of array.
+
+Numpy is open source.
+
+
+
+Operations using NumPy
+Using NumPy, a developer can perform the following operations −
+
+Mathematical and logical operations on arrays.
+
+Fourier transforms and routines for shape manipulation.
+
+Operations related to linear algebra. NumPy has in-built functions for linear algebra and random number generation.
