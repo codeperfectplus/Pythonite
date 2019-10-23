@@ -4,7 +4,8 @@
 import numpy as np 
 
 #Array Created with float type
-a = np.array( [[1, 2, 4],[4, 5, 4]], dtype ='float')
+a = np.array( [[1, 2, 4],
+			   [4, 5, 4]], dtype ='float')
 print(a)
 print()    
 #Creating Array From Tuple
