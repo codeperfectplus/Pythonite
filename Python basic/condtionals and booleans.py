@@ -1,3 +1,7 @@
+'''
+Function Method Using ClassMethod.
+'''
+
 
 class Employee:
     """A sample Employee class"""
