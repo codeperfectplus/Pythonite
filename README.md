@@ -8,9 +8,6 @@ And Some Machine Learning Codes.( Basic To Advance)
 
 Then Data Visualization To Some Real Life Projects With Real life Data.
 
-If Anyone Want To Contribute In My Codes, You Can contact me on given Email address.
-I Will Upload your codes with Your Name( Contributed By : *********** )
-
 Source Of Dataset :- Kaggle,  Random generator
 Year Of Starting Repository: 2@19
 
