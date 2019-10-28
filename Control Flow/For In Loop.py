@@ -20,6 +20,7 @@ tuple_01 = ('Java', 'Python', 'C-Language', 'C++', 'Ruby', 'Html', 'Perl')
 for i in list_01:
 	print(i)
 print('&'*20)
+
 for index in range(len(list_01)):
 	print(list_01[index])
 
