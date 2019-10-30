@@ -1,3 +1,4 @@
-pandas in very powerfull library of python. A Data frame is a two dimensional data structure. Data is aligned in a tabular fashion in row and column. Pandas Consist three components Rows, Columns and Data.
+pandas in very powerfull library of python. A Data frame is a two dimensional data structure. Data is aligned in a tabular fashion in row and column.
+Pandas Consist three components Rows, Columns and Data.
 
 we will brifly understand about framework.
