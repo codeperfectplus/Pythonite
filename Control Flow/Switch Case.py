@@ -12,8 +12,14 @@ def change_data_type(argument):
             1 : "one",
             2 : "two",
             3 : "three",
+            4 : "Fout",
+            5 : "Five",
+            6 : "Six",
+            7 : "Seven"
+            8 : "Eight"
+            9 : "Nine"
             }
-    return switcher.get(argument, "Choose Between 0 to 3")
+    return switcher.get(argument, "Choose Between 0 to 9")
 
 if __name__ == "__main__":
     x = int(input(''))

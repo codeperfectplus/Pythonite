@@ -5,10 +5,7 @@ for iterator in sequence:
 		statements(s)
 		statements(s)
 		'''
-
-from __future__ import print_function
-
-for i in range(1,4):
+for i in range(1,7):
 	for j in range(i):
 		print(i, end ='')
 	print()

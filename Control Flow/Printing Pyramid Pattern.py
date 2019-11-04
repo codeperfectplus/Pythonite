@@ -9,5 +9,5 @@ def pypart(n):
             print("*",end = '')
         print('\n')
 
-n = 10
+n = 5
 pypart(n)

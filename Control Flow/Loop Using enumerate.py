@@ -27,7 +27,7 @@ use of set() can be combined to remove duplicates
 list_01 = [1, 3, 6, 4, 7, 1, 2, 3, 1, 7, 6]
 print("The list in sorted order is : ")
 for i in sorted(list_01):
-	print(i, end ='')
+	print(i, end ='')	
 
 print('\n') # only for space in output
 print("List Is in Order Without Duplicates Value ")
