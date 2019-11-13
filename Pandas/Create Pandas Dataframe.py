@@ -1,12 +1,9 @@
 # import pandas Library
 
+import numpy as np
 import pandas as pd 
 
-# create a pandas dataframe using list, we can also use Dict
-list_01 = ['Pandas', 'Numpy','Scipy' ,'Machine Learning', 'Deep Learning', 'Reinforcement Learning']
- 
-#now load data in df variable
-df = pd.DataFrame(list_01)
-
-#show the data
+df = pd.DataFrame(np.arange(0,20).reshape(5,4), index =['row1', 'row2', 'row3', 'row4', 'row5'], columns =['col1', 'col2', 'col3', 'col4'])
 print(df)
+
+df.loc['row1']
