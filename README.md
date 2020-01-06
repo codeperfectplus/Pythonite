@@ -1,4 +1,4 @@
-# python
+# Python
 Python Code Repository For For Basic Codes To Some Intermediate Codes.
 All Sugggestion Are Welcome On Code: Deepak008@live.com
 Please Mention Subject Python codes Github
@@ -23,5 +23,4 @@ Then Data Visualization To Some Real Life Projects With Real life Data.
 Source Of Dataset :- [Kaggle](www.kaggle.com),  Random generator
 Author :- [CodePerfectPlus](www.github.com/codeperfectplus)
 Year Of Starting Repository: 2@19
-
 
