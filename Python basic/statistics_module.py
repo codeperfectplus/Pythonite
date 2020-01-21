@@ -1,4 +1,8 @@
-'''statistics Module can only be apply on python 3'''
+'''
+@author : CodePerfectPlus
+@Topic  : Statistics Module
+
+statistics Module can only be apply on python 3'''
 
 
 

@@ -1,4 +1,7 @@
-'''A Global Variable is one that can be accessed anywhere.
+'''
+@author : CodePerfectPlus
+@Topic  : Global And Local Variable
+A Global Variable is one that can be accessed anywhere.
 a local Variable is the opposite,
  it can only be accessed within its frame.
  '''

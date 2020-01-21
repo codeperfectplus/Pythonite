@@ -1,4 +1,7 @@
-''' class are group of functions.
+''' 
+@author : CodePerfectPlus
+@Topic  : Python Classes
+class are group of functions.
 classes quickly work their way into "intermediate" Programing.
 '''
 

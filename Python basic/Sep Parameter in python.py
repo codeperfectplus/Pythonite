@@ -1,4 +1,6 @@
 '''
+@author : CodePerfectPlus
+@Topic  : seprator
 The seprator between the argument to print() function in python in space by  default,
 which can be modified and can be made to any chracter.
 we can use dash, comm, colan and semicolan instead of deafault space.

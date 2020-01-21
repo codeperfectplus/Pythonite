@@ -1,3 +1,7 @@
+'''
+@author : CodePerfectPlus
+@Topic  : Selection Sort 
+'''
 def sort(nums):
 	for i in range(len(nums)-1):
 		minpos = i

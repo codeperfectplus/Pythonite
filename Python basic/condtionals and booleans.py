@@ -1,6 +1,9 @@
 '''
-Function Method Using ClassMethod.
+@author : CodePerfectPlus
+@Topic  : Function Method Using ClassMethod.
 '''
+
+
 
 
 class Employee:

@@ -1,5 +1,7 @@
-'''while Loop'''
-'''github'''
+'''
+@author : CodePerfectPlus
+@Topic  : While Loop
+while Loop'''
 
 condition=2
 

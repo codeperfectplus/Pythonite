@@ -1,4 +1,7 @@
-''' 
+'''
+@author : CodePerfectPlus
+@Topic  : Palindrome
+
 python programe to check if  a string is palindrome
 or not'''
 

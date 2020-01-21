@@ -1,4 +1,6 @@
 '''
+@author : CodePerfectPlus
+@Topic  : Function 
 function in pyhton declared by def keyword, I will discuss about function in detilas.
 IF-Else statements for check divisibility
 '''

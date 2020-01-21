@@ -1,4 +1,7 @@
-''' List and Tuple in Python are just like array to store data
+'''
+@author : CodePerfectPlus
+@Topic  : List and Tuple
+List and Tuple in Python are just like array to store data
 List are mutable and Tuple are immutable that means we can't change,modify a tuple.
 generally tuple is used when we have to save some data as like "Ip address",
 "Mac address"

@@ -1,3 +1,7 @@
+'''
+@author : CodePerfectPlus
+@Topic  : Python Class 
+'''
 class Empl(object):
 	
 	"""docstring for Empl"""

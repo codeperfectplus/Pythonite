@@ -1,3 +1,9 @@
+'''
+@author : CodePerfectPlus
+@Topic  : Generator
+'''
+
+
 right_combination = (2,3,5)
 
 for c1 in range(10):

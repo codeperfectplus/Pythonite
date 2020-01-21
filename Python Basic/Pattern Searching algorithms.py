@@ -1,4 +1,7 @@
-''' Python3 program for Naive Pattern 
+'''
+@author : CodePerfectPlus
+@Topic  : Pattern Searching  
+Python3 program for Naive Pattern 
  Searching algorithm 
  '''
 def search(pat, txt): 
@@ -26,4 +29,3 @@ if __name__ == '__main__':
 	search(pat, txt) 
 
 # This code is contributed 
-# by PrinciRaj1992 

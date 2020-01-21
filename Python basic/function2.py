@@ -1,3 +1,8 @@
+'''
+@author : CodePerfectPlus
+@Topic  : Function -2
+'''
+
 def my_func(food):
     for x in food:
         print(x)

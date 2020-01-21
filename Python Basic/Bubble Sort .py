@@ -1,3 +1,7 @@
+'''
+@author : CodePerfectPlus
+@Topic  : Buuble Sort 
+'''
 
 def sort(nums):
 	for i in range(len(nums)-1,0,-1):

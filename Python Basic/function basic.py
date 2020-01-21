@@ -1,3 +1,8 @@
+'''
+@author : CodePerfectPlus
+@Topic  : Funtion Basic
+'''
+
 def welcome(greeting):
 	return "Hello and {}".format(greeting)
 

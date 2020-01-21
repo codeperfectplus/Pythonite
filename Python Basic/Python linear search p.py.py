@@ -1,4 +1,7 @@
-''' Linear serach algorithm 
+'''
+@author : CodePerfectPlus
+@Topic  : Buuble Sort 
+Linear serach algorithm 
 1. worst case
 2.average case
 3.Best case
