@@ -7,4 +7,4 @@ sum = num1 + num2
 
 #printing values
 
-print("sum of {0} and {1} is {2}".format(num1, num2, sum))
+print(f"sum of {num1} and {num2} is {sum}")
