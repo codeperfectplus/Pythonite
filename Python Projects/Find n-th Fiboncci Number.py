@@ -1,7 +1,7 @@
-# a = (a-1) + (a-2)
-
-# recurssion mehthod
-
+'''
+Fibonacci Series start from 1. it makes new number by adding previous 2 Numbers.
+1,1,2,3,5
+'''
 def Fibonacci(n):
 	if n<0:
 		print("Wrong Input ! Please Check Again")

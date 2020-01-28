@@ -6,11 +6,11 @@ These  Functions are called user-defined functions.
 '''
 
 def check_number(x):
-	if (x % 2 == 0):
-		print("Given Number Is Even")
+	if (x % 2 == 0):         # checking Divisibility by 2
+		print("Given Number Is Even")   # 2,4,6,8....
 
 	else:
-		print("Given Number Is Odd")
+		print("Given Number Is Odd")   #1,3,5,7...
 
 check_number(7)
 check_number(5)
@@ -21,4 +21,6 @@ check_number(120)
 def student_name(firstname,lastname):
 	print(firstname, lastname)
 
-student_name(firstname = 'Alex', lastname = 'Jean')
+
+student_name("john","adam")
+student_name(lastname = 'Jean',firstname = 'Alex',)

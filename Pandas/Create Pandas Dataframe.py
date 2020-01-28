@@ -1,5 +1,8 @@
-# import pandas Library
-
+'''
+ import pandas Library
+Pandas is Python Library for dataframe, Like to read write and load data in dataframe.
+Pandas is must known library for Data Science.
+'''
 import numpy as np
 import pandas as pd 
 

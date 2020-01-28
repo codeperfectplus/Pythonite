@@ -1,4 +1,6 @@
 # importing google_images_download module 
+'''
+Python Module for download google image in one click by User Input'''
 from google_images_download import google_images_download 
 
 # creating object 

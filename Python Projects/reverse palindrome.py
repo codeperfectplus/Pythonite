@@ -1,17 +1,23 @@
 ''' 
-python programe to check if  a string is palindrome
-or not'''
+Python Programe To Check if  a String is Palindrome or Not
+'''
 
-x = "211112"
-w = ""
+check1 = input("Choose Your Input For Check Palindrome\n For Integer Type --> i \n For Word Type   -->s\n").lower()
+for i range(1,3):
+	if check1 == 's':
+		x = input("Enter Your Word Here :\n").lower()
+	elif check1 == 'i':
+		x = input("Enter Your Number Here :\n")
+	else:
+		print("Please Enter I or S only")
 
-# save string x to a new new variable and compare them
-for i in x:
-	w = i + w
-	#print(w)
-	if (x==w):
-		print("Yes")
-		break
+	w = "" # Empty String to save Reverse value in it.
 
-else:
-	print("No")
+#save string x to a new new variable and compare them
+	for i in x:
+		w = i + w   # save new value to w 
+		if (x==w):
+			print("Yes")
+			break
+	else:
+		print("No")

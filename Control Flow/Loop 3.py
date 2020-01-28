@@ -2,7 +2,9 @@
 """
 Created on Mon Oct 28 17:17:30 2019
 
-@author: Looping Example 2
+@author: codePerfectPlus
+
+Looping Example 2
 """
 
 Phone = ['Iphone 10', 'Samsung S10', 'One plus 7 pro', 'Redmi note 7 pro']

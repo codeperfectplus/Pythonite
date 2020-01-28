@@ -1,5 +1,6 @@
 '''
 python programfor convert text to speech
+gTTS = Google Text to Speech
 '''
 from gtts import gTTS
 import os
