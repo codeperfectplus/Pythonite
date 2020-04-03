@@ -1,22 +1,50 @@
-# Python
-Python Code Repository For For Basic Codes To Some Intermediate Codes.
+# Pythonite
+ Programing With Python
 
-All Sugggestion Are Welcome On Code: Deepak008@live.com
-`Please Mention Subject Python codes Github`
+##### Introduction
+We Will Code Some Basic Like If Else, For loops and some intermidate Python Library Like Pandas, Numpy, MatplotLib And Scipy.
 
-We Will Code Some Basic Like If Else, For loops
-and some intermidate Python Library Like Pandas, Numpy, MatplotLib And Scipy.
-And Some Machine Learning Codes.( Basic To Advance)
+# How To Run 
+- Install python 3.6+
+- Pip insall
+    - numpy 
+    - pandas
 
-Then Data Visualization To Some Real Life Projects With Real life Data.
-# Use Of Python In Various Field
-> The detailed listings of the packages catered by Python language is provided in the Python Package Index. To include modules like GUI, Test, Automation, DB, Networking, Web Development, Image Processing, Text Processing, etc., Python consists of several standard libraries, which plays the following role-   
 
-* ## Machine Learning- ML provides agility that helps in improvising AI machines with TensorFlow and Keras libraries.   
-* ## Hadoop- With the help of Hadoop, Python employs Pydoop library to render support to Big Data processing.   
-* ## Web Development- Frameworks such as Django, Pylons and Flask, which are coded in Python are considered to be more stable for developing websites.  
-* ## Automated Testing- Automated testing tools like Selenium and Splinter have application programming interface that is capable of executing on Python. A developer can also test on cross platforms and cross browsers with the help of Pytest.  
-* ## Graphics- By using Python’s Tkinter library, GUI applications can be written and run effortlessly.   
-* ## Image Processing- PIL- Python image processing library supports imaging files from various formats.
+## Installation
+Fork Project and contribute to improve Analysis
+- IDE - Visual Studio Code
+- Sublime Text editor
 
-![](https://www.ssdntech.com/blog/wp-content/uploads/2019/11/python-features.png)
+## Support
+contributers 
+
+
+## Roadmap
+More Data Analysis With Kaggle and improvement in previous Codes
+
+## Contributing
+Before submitting a bug, please do the following:
+
+Perform basic troubleshooting steps:
+
+- Make sure you are on the latest version. If you are not on the most recent version, your problem may have been solved already! Upgrading is always the best first step.
+- Try older versions. If you are already on the latest release, try rolling back a few minor versions (e.g. if on 1.7, try 1.5 or 1.6) and see if the problem goes away. This will help the devs narrow down when the problem first arose in the commit log.
+- Try switching up dependency versions. If the software in question has dependencies (other libraries, etc) try upgrading/downgrading those as well.
+
+## Authors and acknowledgment
+Show your appreciation to those who have contributed to the project.
+
+
+## License
+For open source projects,Under MIT License.
+
+## Project status
+
+## Author
+- Project : Pythonite
+- Author  : CodePerfectPlus
+- Language : Python
+- Github : https://github.com/codePerfectPlus
+- Website : http://codeperfectplus.github.io/
+
