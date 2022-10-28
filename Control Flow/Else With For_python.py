@@ -3,6 +3,6 @@ we can use else statement with for loop in python, in any other language else ca
 '''
 
 for i in range(1, 10):
-	print(i)
+ 	print(i)
 else:
 	print("Hello! World")
